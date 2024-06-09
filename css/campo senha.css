@@ -13,6 +13,7 @@
     border: none;
     color: var(--branco);
     font-size: 40px;
+    font-family: var(--fonte);
 }
 
 #txtSenha :focus{
