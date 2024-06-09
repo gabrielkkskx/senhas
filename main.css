@@ -1,8 +1,14 @@
 @import url(./css/variaveis.css);
 @import url(./css/cabecalho.css);
+@import url(./css/campo\ senha.css);
 
 body{
     font-family: var(--fonte);
     color: var(--branco);
     background-color: var(--background);
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
 }
