@@ -2,5 +2,7 @@
 @import url(./css/cabecalho.css);
 
 body{
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: var(--fonte);
+    color: var(--branco);
+    background-color: var(--background);
 }
