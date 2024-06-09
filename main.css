@@ -1,0 +1,6 @@
+@import url(./css/variaveis.css);
+@import url(./css/cabecalho.css);
+
+body{
+    font-family: 'Permanent Marker', sans-serif;
+}
