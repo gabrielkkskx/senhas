@@ -1,4 +1,21 @@
 .parametro{
     background-color: var(--bg-principal);
     border: 2px solid var(--borda);
+    margin-top: 32px;
+    padding: 24px;
+}
+
+.parametro-titulo{
+    font-family: var(--fonte);
+    font-size: 28px;
+}
+
+.p-senha-titulo{
+    font-size: 24px;
+}
+
+.p-coluna-senha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
